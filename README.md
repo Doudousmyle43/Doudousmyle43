@@ -2,8 +2,8 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning the c language , html css, python.
 - 💞️ I’m looking to collaborate on learn
-- 📫 How to reach me 
-- 😄 Pronouns: ...
+- 📫 How to reach me falldoudou4234@gmail.com
+- 😄 Pronouns: joker
 - ⚡ Fun fact: ...
 
 <!---
